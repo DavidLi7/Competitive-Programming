@@ -1,0 +1,1 @@
+int j = round(sqrt(r * r - i * i));
